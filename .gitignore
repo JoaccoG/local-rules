@@ -1,0 +1,9 @@
+node_modules/
+.venv/
+dist/
+shots/
+lab.html
+.DS_Store
+*.pyc
+__pycache__/
+*.bak
