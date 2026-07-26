@@ -1,0 +1,16 @@
+{
+  "name": "flower",
+  "channels": 16,
+  "hidden": 128,
+  "grid": 64,
+  "fire_rate": 0.5,
+  "alpha_threshold": 0.1,
+  "padding": "zero",
+  "params": 8336,
+  "bytes": 33344,
+  "training_steps": 5000,
+  "final_loss": 0.0010101363295689225,
+  "train_seconds": 663.3,
+  "device": "cuda",
+  "layout": "f32le: W1[48*128 in-major] b1[128] W2[128*16 in-major] b2[16]"
+}
