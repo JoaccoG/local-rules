@@ -1,0 +1,16 @@
+{
+  "name": "butterfly",
+  "channels": 16,
+  "hidden": 128,
+  "grid": 64,
+  "fire_rate": 0.5,
+  "alpha_threshold": 0.1,
+  "padding": "zero",
+  "params": 8336,
+  "bytes": 33344,
+  "training_steps": 3500,
+  "final_loss": 0.00014755336451344192,
+  "train_seconds": 1321.7,
+  "device": "cuda",
+  "layout": "f32le: W1[48*128 in-major] b1[128] W2[128*16 in-major] b2[16]"
+}
