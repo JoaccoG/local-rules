@@ -1,0 +1,14 @@
+node_modules
+dist
+.git
+.github
+.venv
+docs
+shots
+training
+scripts/vendor
+lab.html
+*.bak
+.DS_Store
+CLAUDE.md
+.claude
