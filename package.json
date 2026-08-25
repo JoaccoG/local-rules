@@ -3,6 +3,25 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "description": "An interactive essay on cellular automata — from Conway's Game of Life to a neural network that grows a creature from a single pixel and heals when you cut it.",
+  "author": "Joaquín Godoy",
+  "license": "MIT",
+  "homepage": "https://github.com/JoaccoG/local-rules#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaccoG/local-rules.git"
+  },
+  "keywords": [
+    "cellular-automata",
+    "webgpu",
+    "wgsl",
+    "neural-cellular-automata",
+    "lenia",
+    "conway",
+    "reaction-diffusion",
+    "interactive-essay",
+    "generative-art"
+  ],
   "scripts": {
     "serve:design": "tsx scripts/serve-design.ts",
     "shoot": "tsx scripts/shoot.ts",
